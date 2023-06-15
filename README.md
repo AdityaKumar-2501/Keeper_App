@@ -1,2 +1,2 @@
 # Keeper_App
-Created with CodeSandbox
+This app is just like google Notes with CRUD operation.
